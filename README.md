@@ -1,2 +1,2 @@
 # Sistemas_VAMG
-Mi repositorio en GitHub por Victor Machuca
+Mi repositorio en GitHub por Victor Machucaa
